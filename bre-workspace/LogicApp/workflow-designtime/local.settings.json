@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "APP_KIND": "workflowapp",
+    "FUNCTIONS_WORKER_RUNTIME": "node",
+    "ProjectDirectoryPath": "c:\\GitRepos\\GitHub\\RobBowman\\bre-logic-app\\bre-workspace\\LogicApp",
+    "AzureWebJobsSecretStorageType": "Files"
+  }
+}
